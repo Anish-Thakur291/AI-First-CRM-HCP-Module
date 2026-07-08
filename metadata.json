@@ -1,0 +1,6 @@
+{
+  "name": "AI-First CRM HCP Module",
+  "description": "An AI-first Customer Relationship Management (CRM) screen for Healthcare Professionals (HCP), enabling interaction logging via structured form or conversational AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
