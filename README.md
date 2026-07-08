@@ -4,14 +4,14 @@ An AI-First Customer Relationship Management (CRM) application for Life Sciences
 
 ---
 
-## 🎨 Design & Theme
+##  Design & Theme
 
 - **Modern Clean Theme:** Designed in a high-contrast light slate theme, swapping dark mode layouts for beautiful slate, cobalt, and emerald gradients with clean typography and plenty of whitespace.
 - **Responsive Layout:** Responsive two-column view. The left-hand panel holds the interactive structured input logging forms and records history datastore. The right-hand column features a sticky, interactive real-time AI Assistant conversational pane.
 
 ---
 
-## 🛠 Core Features
+##  Core Features
 
 ### 1. Log HCP Interaction Form
 - **Form Fields:** Track HCP Name, Interaction Type (Meeting, Call, Email, Lunch & Learn, Web Conference, etc.), Date, Time, Attendees list, and Detailing Topics.
@@ -36,7 +36,7 @@ An AI-First Customer Relationship Management (CRM) application for Life Sciences
 
 ---
 
-## 🏗 Full-Stack Architecture
+##  Full-Stack Architecture
 
 ```
  [Field Representative]  --->  [React UI & Redux State Store] 
